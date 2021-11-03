@@ -1,4 +1,4 @@
 baseDataUri: "https://tameeni/aggregator/alameya/hindoyabashar"
-fetchInterval: "00:20:00"
+fetchInterval: "00:30:00"
 keyword: "testApp"
 
